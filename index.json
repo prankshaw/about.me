@@ -7,10 +7,10 @@
     "phone": "(912) 555-4321",
     "website": "https://prankshaw.github.io/",
     "summary": "I am a Computer Science Senior at MSIT and have interned as a Software Developer and Data Scientist. I am an avid supporter of Open-Source and have contributed a lot! I am currently looking for opportunities as a Software Developer.",
-    "location": {
+    "location": [{
       "city": "New Delhi",
       "countryCode": "India",
-    },
+    }],
     "profiles": [{
       "network": "Twitter",
       "username": "mepranjal31",
