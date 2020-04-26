@@ -1,23 +1,20 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
+    "name": "Pranjal",
+    "label": "Developer | Writer",
     "picture": "",
-    "email": "john@gmail.com",
+    "email": "pranjalrastogi1998@gmail.com",
     "phone": "(912) 555-4321",
-    "website": "http://johndoe.com",
-    "summary": "A summary of John Doe...",
+    "website": "https://prankshaw.github.io/",
+    "summary": "I am a Computer Science Senior at MSIT and have interned as a Software Developer and Data Scientist. I am an avid supporter of Open-Source and have contributed a lot! I am currently looking for opportunities as a Software Developer.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "New Delhi",
+      "countryCode": "India",
     },
     "profiles": [{
       "network": "Twitter",
-      "username": "john",
-      "url": "http://twitter.com/john"
+      "username": "mepranjal31",
+      "url": "http://twitter.com/mepranjal31"
     }]
   },
   "work": [{
@@ -32,26 +29,19 @@
     ]
   }],
   "volunteer": [{
-    "organization": "Organization",
+    "organization": "United Nations",
     "position": "Volunteer",
-    "website": "http://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description...",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
+    "website": "https://www.un.org/en/",
+    "startDate": "2018-04-01",
+    "endDate": "2018-05-05",
   }],
   "education": [{
-    "institution": "University",
-    "area": "Software Development",
+    "institution": "Guru Gobnd Singh Indraprastha University",
+    "area": "Computer Science and Engineering",
     "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "gpa": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
+    "startDate": "2016-08-01",
+    "endDate": "2020-06-01",
+    "gpa": "9.23",
   }],
   "awards": [{
     "title": "Award",
