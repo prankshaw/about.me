@@ -1,3 +1,6 @@
+# NO USE OF THIS REPO NOW
+Visit -> https://registry.jsonresume.org/prankshaw and https://gist.github.com/prankshaw/f72aa5dcd469dffd767590a95d40a400 for this functionality
+
 # Me
 A next-gen JAMSTACK template for **developers** that leverage the use of [JSON Resume Schema](https://jsonresume.org/schema) in creating a web based vitae and portfolio. Stop worying with a complex setup and deployment process.   
 
